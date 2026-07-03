@@ -1,7 +1,3 @@
-Core Java Developer & Modder specializing in systems design, game mechanics, and infrastructure tools across **Java**, **C#**, **Python**, and **Luau**.
-
----
-
 ### Tech Stack & Focus
 * **Core Languages:** Java, C#, Python, Luau
 * **Domains:** Procedural Generation, Network Protocol Utilities, Authentication Systems
