@@ -6,7 +6,7 @@
 ---
 
 ### ReAnimated
-Founder and Lead Developer of **ReAnimated**, an indie development team of five focusing on game development & modding (specifically minecraft & roblox)
+Founder and Lead Developer of **ReAnimated**, an indie development team of five focusing on game development & modding (specifically Minecraft & Roblox)
 
 #### Minecraft Engineering
 * **Ratatoskr** – An authentication plugin aiming to forever solve the cracked & premium player dilemma.
